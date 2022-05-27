@@ -17,13 +17,7 @@
   ## Installation Instructions
   * In order to install and use this program locally, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Afterwards, type "npm start" into the prompt to begin the program. 
   
-  This program has also been deployed through Heroku, which you can access here: ()
-  
-  ## Usage
-  * Use this to save easy to access code snippets on your computer, so that you can quickly access it for your coding projects.
-  
-  ## Test Instructions
-  * No testing required.
+  This program has also been deployed through Heroku, which you can access here: (https://ivdb19980714.herokuapp.com/)
   
   ## License
   * The application is covered under the following license:
